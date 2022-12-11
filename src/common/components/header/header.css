@@ -1,0 +1,29 @@
+.main-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:25px 0;
+}
+.left-part,.right-part,.header-icon{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.input-group{
+    margin:10px;
+    width:56vh;
+}
+.input-group-text{
+    background-color: palevioletred;
+}
+.header-text {
+   font-size: 14px;
+line-height: 16px;
+text-align: right;
+color: #1D252D;
+font-weight: bold;
+cursor: pointer;
+}
+.margin-left20{
+  margin-left: 20px;
+}
